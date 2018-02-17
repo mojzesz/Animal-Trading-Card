@@ -1,0 +1,48 @@
+.card {
+    padding: 20px;
+    box-shadow: 10px 10px 10px #d3d3d3;
+    width: 305px;
+    color: white;
+    font-family: Times, Times New Roman, Georgia, serif;
+    background-image: url("http://media-dominaria.cursecdn.com/attachments/88/812/635032494788529192.jpg");
+    text-align: justify;
+    border: 2px solid white;
+}
+
+.name {
+    text-align: center;
+    text-transform: uppercase;
+    border-bottom: 1.5px solid white;
+    font-size: 30px;
+}
+
+.image {
+    margin-bottom: 10px;
+    border: 2px solid white;
+    width: 300px;
+    border-radius: 3%;
+}
+
+.fact {
+    font-style: italic;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0
+}
+
+.title {
+    font-weight: bold;
+}
+
+.description { 
+    border: 2px solid black;
+    padding: 0 15px 0 15px;
+    background: white; 
+    opacity: 0.5;
+    color: black;
+    border-radius: 3%;
+}
